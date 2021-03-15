@@ -1,0 +1,5 @@
+PI2 = 3.144
+
+ENV_TITLE_MAX_LEN = 20
+ENV_PNAME_MAX_LEN = 15
+VERSION           = 'v 1.0'
